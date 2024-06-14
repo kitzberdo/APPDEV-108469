@@ -6,8 +6,6 @@ Python is a versatile and powerful programming language known for its readabilit
 
 ## 1. Python's Key Features
 
----
-
 Python offers several **core features** that make it immensely popular:
 
 1. **Simplicity:** Its clean syntax allows new users to pick it up quickly.
@@ -38,8 +36,6 @@ Python comes with a *vast standard library*, often referred to as its "batteries
 
 ## 2. Python in Various Domains
 
----
-
 Whether it's web development or artificial intelligence, Python finds its application in numerous areas. Here's a look at some of them:
 
 - **Web Development:** Frameworks like Django and Flask.
@@ -61,8 +57,6 @@ Using Python for data analysis is incredibly efficient due to libraries such as 
 ```
 
 ## 3. Python's Impact and Community
-
----
 
 Python has a robust ecosystem supported by a vibrant community. There are numerous conferences around the world, such as PyCon, and an abundance of respurces available online.
 
@@ -86,8 +80,6 @@ Here is a table of some popular Python libraries and their uses:
 |Scikit-learn|Machine Learning   |
 
 ## 4. Conclusion
-
----
 
 Python's broad applicabilility and ease of use have contributed to it's status as a top choice for beginners and experts alike. Its syntax is accessible, making complex ideas straightforward to express, while its libraries make powerful functionality readily avaialable.
 
